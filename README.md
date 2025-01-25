@@ -42,6 +42,15 @@ Principais funcionalidades:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Calculadora de Médias 🧮](https://erik-projeto-calculadora-medias-sable.vercel.app/)
+
+
+---
+
 ## <a id="como-usar"></a>🧠 Como Usar
 
 1. Clone este repositório:
